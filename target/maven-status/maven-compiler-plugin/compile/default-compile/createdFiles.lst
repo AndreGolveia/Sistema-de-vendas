@@ -1,0 +1,7 @@
+com\mycompany\sistema_de_vendas\Vendedor.class
+com\mycompany\sistema_de_vendas\ConexaoBD.class
+com\mycompany\sistema_de_vendas\Pedido.class
+com\mycompany\sistema_de_vendas\Principal.class
+com\mycompany\sistema_de_vendas\Cliente.class
+com\mycompany\sistema_de_vendas\TelaConsulta.class
+.netbeans_automatic_build
